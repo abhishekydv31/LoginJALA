@@ -1,0 +1,6 @@
+@LoginJALA_HostAddress = http://localhost:5245
+
+GET {{LoginJALA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
